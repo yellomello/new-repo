@@ -1,1 +1,1 @@
-# This is a new repo readme (Updated)
+# This is a new repo readme (Updated from the CLI)
